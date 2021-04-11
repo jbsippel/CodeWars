@@ -1,0 +1,7 @@
+C:\GitRep\CodeWars\HighestScoringWord\bin\Debug\HighestScoringWord.exe.config
+C:\GitRep\CodeWars\HighestScoringWord\bin\Debug\HighestScoringWord.exe
+C:\GitRep\CodeWars\HighestScoringWord\bin\Debug\HighestScoringWord.pdb
+C:\GitRep\CodeWars\HighestScoringWord\obj\Debug\HighestScoringWord.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\HighestScoringWord\obj\Debug\HighestScoringWord.exe
+C:\GitRep\CodeWars\HighestScoringWord\obj\Debug\HighestScoringWord.pdb
+C:\GitRep\CodeWars\HighestScoringWord\obj\Debug\HighestScoringWord.csprojAssemblyReference.cache

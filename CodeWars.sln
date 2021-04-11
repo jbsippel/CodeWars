@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreTheyTheSame", "AreTheyTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuValidator", "SudokuValidator\SudokuValidator.csproj", "{C88C6C0B-32C0-4706-9039-10EDC714D1CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestScoringWord", "HighestScoringWord\HighestScoringWord.csproj", "{73D5E675-9668-40B2-A51C-1A189CBE5534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C88C6C0B-32C0-4706-9039-10EDC714D1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C88C6C0B-32C0-4706-9039-10EDC714D1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C88C6C0B-32C0-4706-9039-10EDC714D1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D5E675-9668-40B2-A51C-1A189CBE5534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D5E675-9668-40B2-A51C-1A189CBE5534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D5E675-9668-40B2-A51C-1A189CBE5534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D5E675-9668-40B2-A51C-1A189CBE5534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
