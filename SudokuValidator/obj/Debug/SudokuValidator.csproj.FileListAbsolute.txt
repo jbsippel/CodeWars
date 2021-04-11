@@ -1,0 +1,7 @@
+C:\GitRep\CodeWars\SudokuValidator\bin\Debug\SudokuValidator.exe.config
+C:\GitRep\CodeWars\SudokuValidator\bin\Debug\SudokuValidator.exe
+C:\GitRep\CodeWars\SudokuValidator\bin\Debug\SudokuValidator.pdb
+C:\GitRep\CodeWars\SudokuValidator\obj\Debug\SudokuValidator.csprojAssemblyReference.cache
+C:\GitRep\CodeWars\SudokuValidator\obj\Debug\SudokuValidator.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\SudokuValidator\obj\Debug\SudokuValidator.exe
+C:\GitRep\CodeWars\SudokuValidator\obj\Debug\SudokuValidator.pdb
