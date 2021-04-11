@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\PriceOFMangoes\bin\Debug\PriceOFMangoes.exe.config
+C:\GitRep\CodeWars\PriceOFMangoes\bin\Debug\PriceOFMangoes.exe
+C:\GitRep\CodeWars\PriceOFMangoes\bin\Debug\PriceOFMangoes.pdb
+C:\GitRep\CodeWars\PriceOFMangoes\obj\Debug\PriceOFMangoes.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\PriceOFMangoes\obj\Debug\PriceOFMangoes.exe
+C:\GitRep\CodeWars\PriceOFMangoes\obj\Debug\PriceOFMangoes.pdb

@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\Welcome\bin\Debug\Welcome.exe.config
+C:\GitRep\CodeWars\Welcome\bin\Debug\Welcome.exe
+C:\GitRep\CodeWars\Welcome\bin\Debug\Welcome.pdb
+C:\GitRep\CodeWars\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\Welcome\obj\Debug\Welcome.exe
+C:\GitRep\CodeWars\Welcome\obj\Debug\Welcome.pdb

@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\GenerateRangeOfIntegers\bin\Debug\GenerateRangeOfIntegers.exe.config
+C:\GitRep\CodeWars\GenerateRangeOfIntegers\bin\Debug\GenerateRangeOfIntegers.exe
+C:\GitRep\CodeWars\GenerateRangeOfIntegers\bin\Debug\GenerateRangeOfIntegers.pdb
+C:\GitRep\CodeWars\GenerateRangeOfIntegers\obj\Debug\GenerateRangeOfIntegers.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\GenerateRangeOfIntegers\obj\Debug\GenerateRangeOfIntegers.exe
+C:\GitRep\CodeWars\GenerateRangeOfIntegers\obj\Debug\GenerateRangeOfIntegers.pdb

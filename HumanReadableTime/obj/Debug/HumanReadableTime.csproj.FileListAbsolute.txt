@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\HumanReadableTime\bin\Debug\HumanReadableTime.exe.config
+C:\GitRep\CodeWars\HumanReadableTime\bin\Debug\HumanReadableTime.exe
+C:\GitRep\CodeWars\HumanReadableTime\bin\Debug\HumanReadableTime.pdb
+C:\GitRep\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.exe
+C:\GitRep\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.pdb

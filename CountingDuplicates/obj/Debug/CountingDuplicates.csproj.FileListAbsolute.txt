@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\CountingDuplicates\bin\Debug\CountingDuplicates.exe.config
+C:\GitRep\CodeWars\CountingDuplicates\bin\Debug\CountingDuplicates.exe
+C:\GitRep\CodeWars\CountingDuplicates\bin\Debug\CountingDuplicates.pdb
+C:\GitRep\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.exe
+C:\GitRep\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.pdb

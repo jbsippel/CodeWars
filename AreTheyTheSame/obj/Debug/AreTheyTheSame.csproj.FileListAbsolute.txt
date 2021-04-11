@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\AreTheyTheSame\bin\Debug\AreTheyTheSame.exe.config
+C:\GitRep\CodeWars\AreTheyTheSame\bin\Debug\AreTheyTheSame.exe
+C:\GitRep\CodeWars\AreTheyTheSame\bin\Debug\AreTheyTheSame.pdb
+C:\GitRep\CodeWars\AreTheyTheSame\obj\Debug\AreTheyTheSame.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\AreTheyTheSame\obj\Debug\AreTheyTheSame.exe
+C:\GitRep\CodeWars\AreTheyTheSame\obj\Debug\AreTheyTheSame.pdb

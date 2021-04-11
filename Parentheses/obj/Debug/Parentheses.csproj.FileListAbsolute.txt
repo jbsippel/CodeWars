@@ -1,0 +1,7 @@
+C:\GitRep\CodeWars\Parentheses\bin\Debug\Parentheses.exe.config
+C:\GitRep\CodeWars\Parentheses\bin\Debug\Parentheses.exe
+C:\GitRep\CodeWars\Parentheses\bin\Debug\Parentheses.pdb
+C:\GitRep\CodeWars\Parentheses\obj\Debug\Parentheses.csprojAssemblyReference.cache
+C:\GitRep\CodeWars\Parentheses\obj\Debug\Parentheses.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\Parentheses\obj\Debug\Parentheses.exe
+C:\GitRep\CodeWars\Parentheses\obj\Debug\Parentheses.pdb

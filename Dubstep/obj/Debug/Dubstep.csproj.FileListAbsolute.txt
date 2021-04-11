@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\Dubstep\bin\Debug\Dubstep.exe.config
+C:\GitRep\CodeWars\Dubstep\bin\Debug\Dubstep.exe
+C:\GitRep\CodeWars\Dubstep\bin\Debug\Dubstep.pdb
+C:\GitRep\CodeWars\Dubstep\obj\Debug\Dubstep.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\Dubstep\obj\Debug\Dubstep.exe
+C:\GitRep\CodeWars\Dubstep\obj\Debug\Dubstep.pdb

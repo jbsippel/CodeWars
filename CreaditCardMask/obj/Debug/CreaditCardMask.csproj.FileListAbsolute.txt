@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\CreaditCardMask\bin\Debug\CreaditCardMask.exe.config
+C:\GitRep\CodeWars\CreaditCardMask\bin\Debug\CreaditCardMask.exe
+C:\GitRep\CodeWars\CreaditCardMask\bin\Debug\CreaditCardMask.pdb
+C:\GitRep\CodeWars\CreaditCardMask\obj\Debug\CreaditCardMask.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\CreaditCardMask\obj\Debug\CreaditCardMask.exe
+C:\GitRep\CodeWars\CreaditCardMask\obj\Debug\CreaditCardMask.pdb

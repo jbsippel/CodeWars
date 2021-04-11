@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\ComplementaryDNA\bin\Debug\ComplementaryDNA.exe.config
+C:\GitRep\CodeWars\ComplementaryDNA\bin\Debug\ComplementaryDNA.exe
+C:\GitRep\CodeWars\ComplementaryDNA\bin\Debug\ComplementaryDNA.pdb
+C:\GitRep\CodeWars\ComplementaryDNA\obj\Debug\ComplementaryDNA.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\ComplementaryDNA\obj\Debug\ComplementaryDNA.exe
+C:\GitRep\CodeWars\ComplementaryDNA\obj\Debug\ComplementaryDNA.pdb

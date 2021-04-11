@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\EqualSidesOfAnArray\bin\Debug\EqualSidesOfAnArray.exe.config
+C:\GitRep\CodeWars\EqualSidesOfAnArray\bin\Debug\EqualSidesOfAnArray.exe
+C:\GitRep\CodeWars\EqualSidesOfAnArray\bin\Debug\EqualSidesOfAnArray.pdb
+C:\GitRep\CodeWars\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.exe
+C:\GitRep\CodeWars\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.pdb

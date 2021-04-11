@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.exe.config
+C:\GitRep\CodeWars\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.exe
+C:\GitRep\CodeWars\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.pdb
+C:\GitRep\CodeWars\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.exe
+C:\GitRep\CodeWars\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.pdb

@@ -1,0 +1,7 @@
+C:\GitRep\CodeWars\CreatePhoneNumber\bin\Debug\CreatePhoneNumber.exe.config
+C:\GitRep\CodeWars\CreatePhoneNumber\bin\Debug\CreatePhoneNumber.exe
+C:\GitRep\CodeWars\CreatePhoneNumber\bin\Debug\CreatePhoneNumber.pdb
+C:\GitRep\CodeWars\CreatePhoneNumber\obj\Debug\CreatePhoneNumber.csprojAssemblyReference.cache
+C:\GitRep\CodeWars\CreatePhoneNumber\obj\Debug\CreatePhoneNumber.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\CreatePhoneNumber\obj\Debug\CreatePhoneNumber.exe
+C:\GitRep\CodeWars\CreatePhoneNumber\obj\Debug\CreatePhoneNumber.pdb

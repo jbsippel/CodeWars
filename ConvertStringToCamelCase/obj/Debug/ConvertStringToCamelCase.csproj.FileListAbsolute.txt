@@ -1,0 +1,6 @@
+C:\GitRep\CodeWars\ConvertStringToCamelCase\bin\Debug\ConvertStringToCamelCase.exe.config
+C:\GitRep\CodeWars\ConvertStringToCamelCase\bin\Debug\ConvertStringToCamelCase.exe
+C:\GitRep\CodeWars\ConvertStringToCamelCase\bin\Debug\ConvertStringToCamelCase.pdb
+C:\GitRep\CodeWars\ConvertStringToCamelCase\obj\Debug\ConvertStringToCamelCase.csproj.CoreCompileInputs.cache
+C:\GitRep\CodeWars\ConvertStringToCamelCase\obj\Debug\ConvertStringToCamelCase.exe
+C:\GitRep\CodeWars\ConvertStringToCamelCase\obj\Debug\ConvertStringToCamelCase.pdb
